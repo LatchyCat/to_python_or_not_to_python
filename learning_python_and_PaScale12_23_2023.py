@@ -27,7 +27,8 @@
 # idea: - Being a  x = ‘chatGPT.io’
 
 
-
-# TODO: Reach This!
-# Why does python not like spaces between the text?
-# How do I shut it off?
+'''
+ TODO: Reach This!
+ Why does python not like spaces between the text?
+ How do I shut it off?
+'''
